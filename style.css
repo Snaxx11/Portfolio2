@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #FA8072; /* Salmon */
+    color: #2E8B57; /* Dark Green */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #2E8B57; /* Dark Green */
+    color: #FAFAD2; /* Tan */
+    text-align: center;
+    padding: 1rem 0;
+}
+
+nav {
+    background-color: #FAFAD2; /* Tan */
+    padding: 1rem;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 1rem;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #2E8B57; /* Dark Green */
+}
+
+main {
+    padding: 2rem;
+}
+
+section {
+    margin-bottom: 2rem;
+}
+
+h1, h2 {
+    color: #2E8B57; /* Dark Green */
+}
+
+footer {
+    background-color: #2E8B57; /* Dark Green */
+    color: #FAFAD2; /* Tan */
+    text-align: center;
+    padding: 1rem 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
